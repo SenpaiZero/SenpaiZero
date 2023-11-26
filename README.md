@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Ygi Martin Santos</h1>
-<h3 align="center">A passionate c# developer from Philippines</h3>
+<h3 align="center">A passionate developer from Philippines</h3>
+<h3 align="center">I do commisions (systems, games, simple activities, bug fixes, features)</h3>
+<h3 align="center">You can contact me at gmail: ygisantos@gmail.com or ygimartin@gmail.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senpaizero&label=Profile%20views&color=0e75b6&style=flat" alt="senpaizero" /> </p>
 
