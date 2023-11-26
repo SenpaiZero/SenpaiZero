@@ -1,11 +1,10 @@
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=senpaizero&label=Profile%20views&color=0e75b6&style=flat" alt="senpaizero" /> </p><h1 align="center">Hi, I'm Ygi Martin Santos</h1>
-<h3 align="center">A passionate developer from Philippines</h3>
-<h3 align="center">I do commisions (systems, games, simple activities, bug fixes, features)</h3>
-<h3 align="center">You can contact me at gmail: ygisantos@gmail.com or ygimartin@gmail.com</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=senpaizero&label=Profile%20views&color=0e75b6&style=flat" alt="senpaizero" /> </p>
+<h1 align="center">Hi, I'm Ygi Martin Santos<br>‎ </h1>
+<h2 align="center">A passionate developer from Philippines</br>
+I do commisions (systems, games, simple activities, bug fixes, features)</br>
+You can contact me at gmail: ygisantos@gmail.com or ygimartin@gmail.com</br>‎ </h2>
 
-
-</br>
 </br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
