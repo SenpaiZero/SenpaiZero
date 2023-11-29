@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Ygi Martin Santos<br>‎ </h1>
 <h2 align="center">A passionate developer from Philippines</br>
 I do commisions (systems, games, simple activities, bug fixes, features)</br>
-You can contact me at gmail: ygisantos@gmail.com or ygimartin@gmail.com</br>‎ </h2>
+You can contact me at gmail: ygisantos@gmail.com or ygimartin@gmail.com</br> or<br> <a href="https://www.facebook.com/SenpaiZero">FACEBOOK PAGE</a>‎ <br></h2>
 
 </br>
 <h3 align="center">Connect with me:</h3>
